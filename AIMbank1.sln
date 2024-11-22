@@ -15,6 +15,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GPT", "GPT\GPT.csproj", "{8
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GPTImage", "GPTImage\GPTImage.csproj", "{E4A26699-2705-4597-8704-5BF760975A76}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Zadania", "Zadania", "{8F1C4402-3528-4766-BB3A-E29A00D9CB6C}"
+	ProjectSection(SolutionItems) = preProject
+		..\AICourse\AICourse\zadania.pdf = ..\AICourse\AICourse\zadania.pdf
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
